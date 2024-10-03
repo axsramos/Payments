@@ -31,3 +31,15 @@ Desenvolvimento de Meios de Pagamento
 * Conversão em tempo real
 * Garantia de segurança nas transações
 
+### Settings
+Instalar library para gerar QRCode
+```
+> composer require mpdf/qrcode
+```
+
+# Referências:
+[Construindo MVC simples: @jardelgoncalves](https://medium.com/@jardelgoncalves/construindo-um-simples-framework-mvc-com-php-349e9cacbeb1)
+
+[Projeto PIX Estático: @william-costa](https://github.com/william-costa/wdev-qrcode-pix-estatico-php)
+
+
